@@ -12,10 +12,6 @@ import numpy as np
 from fuzzywuzzy import fuzz
 
 
-# https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea
-# outra opção: https://medium.com/@tomar.ankur287/item-item-collaborative-filtering-recommender-system-in-python-cf3c945fae1e
-
-# codigo: https://github.com/KevinLiao159/MyDataSciencePortfolio/blob/67f73f0b6bc20363a60d03beb88045d65538245d/movie_recommender/src/knn_recommender.py#L224
 
 # ler os dados
 def parse_args():
